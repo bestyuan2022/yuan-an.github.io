@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile_new_compressed.jpg" width="280">I am an Associate Professor of Economics (with tenure) in the Kenneth C. Griffin Department of Economics at the University of Chicago. I work mainly on topics in labor, human capital, discrimination, and crime.
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/" width="280">I am a PhD student at Carnegie Mellon University. I work mainly on topics in digital and labor economics.
 
   
