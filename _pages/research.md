@@ -8,20 +8,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Works in progress 
-[**Firm Premia and Match Effects in Pay vs. Amenities**](http://andershumlum.com/s/premia.pdf) with [Anders Humlum](https://www.andershumlum.com/) and [Mette Rasmussen](https://sites.google.com/view/mette-rasmussen/home)  
-Under review; [NBER version](https://www.nber.org/papers/w33884)  
+## Working Papers
+[**Delivering Higher Pay? The Impacts of a Task-Level Pay Standard in the Gig Economy**](/files/lowwage_rs.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home) and [Brian Kovak](https://www.andrew.cmu.edu/user/bkovak/), September 2025.
+Under review; [NBER version]()
 
-[**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
-Revision requested, *Review of Economic Studies*; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/How-Replaceable-Is-a-Low-Wage-Job.pdf)     
-
-[**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Revision requested, *Econometrica*; [NBER version](https://www.nber.org/papers/w30274)   
-
-[**The Effects of Job Loss on Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
-Revision in progress  
+How does a task-level minimum pay requirement for gig workers affect their earnings and employment?
 
 
+
+
+<!--
 ## Published and accepted work
 [**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Forthcoming, *The Review of Economics and Statistics*    
@@ -68,3 +64,4 @@ Coverage: [Econimate](https://www.youtube.com/watch?v=K0W9TBKTwnU)
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
 *The Journal of Economic History*, Vol. 78, No. 3 (Sep 2018); [*online appendix*](/files/rise_and_fall_online_appendix.pdf); [*replication archive*](https://www.dropbox.com/s/fq3c530ngw8443g/replication_full.zip?dl=1)
+-->
