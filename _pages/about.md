@@ -1,4 +1,3 @@
-<!--
 ---
 permalink: /
 title: "About me"
@@ -8,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
--->
+
 
 <!--<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/" width="280">-->
 
