@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Working Papers
-[**Delivering Higher Pay? The Impacts of a Task-Level Pay Standard in the Gig Economy**](/files/lowwage_rs.pdf) (with [Andrew Garin](https://sites.google.com/view/andygarin/home) and [Brian Kovak](https://www.andrew.cmu.edu/user/bkovak/)), September 2025.
+[**Delivering Higher Pay? The Impacts of a Task-Level Pay Standard in the Gig Economy**](/files/lowwage_rs.pdf) (with [Andrew Garin](https://sites.google.com/view/andygarin/home) and [Brian Kovak](https://www.andrew.cmu.edu/user/bkovak/)), September 2025.  
 Under review; [NBER version]()
 
 How does a task-level minimum pay requirement for gig workers affect their earnings and employment?
