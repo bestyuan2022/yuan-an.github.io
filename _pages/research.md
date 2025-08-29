@@ -13,7 +13,7 @@ redirect_from:
 (with [Andrew Garin](https://sites.google.com/view/andygarin/home) and [Brian Kovak](https://www.andrew.cmu.edu/user/bkovak/)), September 2025.  
 Under review.  
 
-<p style="font-size: 10em;">How does a task-level minimum pay requirement for gig workers affect their earnings and employment?
+<p style="font-size: 0.5em;">How does a task-level minimum pay requirement for gig workers affect their earnings and employment?
 
 [[NBER version]()]  
 
