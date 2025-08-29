@@ -15,7 +15,7 @@ Under review.
 
 <p style="font-size: 10em;">How does a task-level minimum pay requirement for gig workers affect their earnings and employment?
 
-[NBER version]()  
+[[NBER version]()]  
 
 
 
