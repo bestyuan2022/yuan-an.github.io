@@ -13,4 +13,4 @@ redirect_from:
 
 I am a PhD student at Carnegie Mellon University. I work mainly on topics in digital and labor economics, using empirical evidence and economic theory.
 
-My research focuses on studying how labor and consumer markets of new forms and structures driven by technological innovation function, and efficiency and incidence of institutions designed to adapt to new market features in these markets.
+My research focuses on studying how labor and consumer markets of new forms and structures (often driven by technological innovation) function, and efficiency and incidence of institutions designed to adapt to new market features in these markets.
